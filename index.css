@@ -1,0 +1,35 @@
+#list-data li {
+    display:inline-block;
+    max-width:200px;
+    margin:5px 5px;
+}
+
+li img {
+    max-width:100%;
+    vertical-align:middle;
+    border-radius:4px;
+} 
+
+h1 {
+    font-family:'Lobster', cursive;
+    font-size: 50px;
+    text-decoration: underline double rgba(0, 0, 255, 0.63);
+    color:rgb(0, 0, 143);
+}
+
+body {
+    background-color:rgb(185, 231, 247);
+}
+
+header {
+    text-align:center;
+    background-color:rgb(185, 231, 247);
+}
+
+button {
+    font-size:30px;
+    border-radius:5px;
+    margin: 0 5px;
+    padding:5px;
+    font-family: 'Righteous', cursive;
+}
